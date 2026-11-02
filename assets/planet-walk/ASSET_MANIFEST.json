@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "referenceCanvas": {
+    "width": 1905,
+    "height": 911
+  },
+  "assets": [
+    {
+      "path": "assets/characters/girl.png",
+      "width": 185,
+      "height": 205
+    },
+    {
+      "path": "assets/characters/girl-body.png",
+      "width": 185,
+      "height": 205
+    },
+    {
+      "path": "assets/characters/girl-leg-left.png",
+      "width": 185,
+      "height": 205
+    },
+    {
+      "path": "assets/characters/girl-leg-right.png",
+      "width": 185,
+      "height": 205
+    },
+    {
+      "path": "assets/characters/cat.png",
+      "width": 135,
+      "height": 148
+    },
+    {
+      "path": "assets/plants/flowers-01.png",
+      "width": 390,
+      "height": 305
+    },
+    {
+      "path": "assets/plants/flowers-02.png",
+      "width": 365,
+      "height": 421
+    },
+    {
+      "path": "assets/plants/flowers-03.png",
+      "width": 94,
+      "height": 100
+    },
+    {
+      "path": "assets/plants/flowers-04.png",
+      "width": 535,
+      "height": 287
+    },
+    {
+      "path": "assets/earth/earth-texture.png",
+      "width": 1300,
+      "height": 470
+    },
+    {
+      "path": "assets/background/sky-reference-with-header.webp",
+      "width": 1905,
+      "height": 911
+    }
+  ],
+  "note": "Transparent PNGs extracted from original screenshot; earth texture exported from the previous canvas generation. The sky reference includes static header and nav."
+}
